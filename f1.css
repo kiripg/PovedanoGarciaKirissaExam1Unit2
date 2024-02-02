@@ -1,0 +1,59 @@
+body {
+    background-color: white;
+    width: 500px;
+    margin: 0 auto;
+}
+#container {
+    width: 500px;
+    background-color: #343434;
+    color: gray;
+    margin-left:10px;
+}
+
+#header {
+   text-align:center;
+    
+}
+#menu {
+  float: left;
+  width: 10px;
+}
+#content {
+  float: left;
+  width: 500px;
+  
+}
+#content #primary {
+  float: left;
+  text-align: left;
+  width: 500px;
+}
+
+
+#foot {
+    background-color: white;
+    color: gray;
+    text-align: center;
+    width: 900px;
+    margin: 0 auto;
+  clear: both;
+}
+
+/* .table {width: 400px;} */
+.miniature {width: 400px;}
+.texto {width: 500px;}
+
+td {
+  border: black 1px solid;
+}
+
+
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 15 dic 2023, 16:22:15
+    Author     : Kirissa
+*/
+
